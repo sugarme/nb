@@ -1,0 +1,11 @@
+.directory
+*.swp
+*.swo
+
+*.dat
+*.log
+*.bak
+*.pt
+*.ot
+*.gt
+
