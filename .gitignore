@@ -9,3 +9,5 @@
 *.ot
 *.gt
 
+.ipynb_checkpoints
+
